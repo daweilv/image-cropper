@@ -3,3 +3,5 @@
 
 
 主要用到 cavans、cropper、jszip、FileSaver。半成品demo
+
+[预览点我](https://daweilv.github.io/image-cropper/)
